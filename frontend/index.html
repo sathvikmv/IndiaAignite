@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fatality Risk AI</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <h1>🔮 Fatality Risk & Cause-Shift Predictor</h1>
+            <p>AI-driven intelligence for predicting accidental and natural death patterns across India.</p>
+        </header>
+
+        <main>
+            <div class="control-panel">
+                <h2>Predict Future Trends</h2>
+                <form id="predict-form">
+                    <div class="form-group">
+                        <label>State</label>
+                        <select id="state" required>
+                            <option>Loading...</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>District</label>
+                        <select id="district" required>
+                            <option>Loading...</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Cause Category</label>
+                        <select id="type" required>
+                            <option>Loading...</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Specific Cause</label>
+                        <select id="cause" required>
+                            <option>Loading...</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Prediction Year</label>
+                        <input type="number" id="year" value="2026" min="2020" max="2030">
+                    </div>
+                    <button type="submit" class="btn-primary">Analyze Risk ⚡</button>
+                </form>
+            </div>
+
+            <div class="results-panel" id="results" style="display: none;">
+                <div class="cards">
+                    <div class="card risk-card">
+                        <h3>Risk Level</h3>
+                        <div class="value" id="risk-val">High</div>
+                        <div class="indicator" id="risk-indicator"></div>
+                    </div>
+                    <div class="card deaths-card">
+                        <h3>Predicted Deaths</h3>
+                        <div class="value" id="deaths-val">0</div>
+                        <p class="sub">Estimated count for selected year</p>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <canvas id="trendChart"></canvas>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
