@@ -1,0 +1,1007 @@
+State,District,Year,Type,Cause,Deaths
+Karnataka,Bangalore,2015,Natural,Stroke,97
+Karnataka,Bangalore,2015,Accidental,Poisoning,75
+Karnataka,Bangalore,2015,Natural,Heat Stroke,18
+Karnataka,Bangalore,2015,Natural,Heat Stroke,14
+Karnataka,Bangalore,2015,Accidental,Poisoning,14
+Karnataka,Bangalore,2016,Accidental,Road Accident,53
+Karnataka,Bangalore,2016,Accidental,Drowning,90
+Karnataka,Bangalore,2016,Natural,Epidemic,61
+Karnataka,Bangalore,2016,Accidental,Road Accident,72
+Karnataka,Bangalore,2017,Accidental,Poisoning,34
+Karnataka,Bangalore,2017,Natural,Heart Attack,39
+Karnataka,Bangalore,2017,Accidental,Fall,43
+Karnataka,Bangalore,2018,Natural,Stroke,54
+Karnataka,Bangalore,2018,Accidental,Fire,59
+Karnataka,Bangalore,2018,Natural,Epidemic,71
+Karnataka,Bangalore,2018,Accidental,Fall,40
+Karnataka,Bangalore,2018,Natural,Heart Attack,52
+Karnataka,Bangalore,2018,Natural,Heat Stroke,46
+Karnataka,Bangalore,2019,Natural,Heat Stroke,81
+Karnataka,Bangalore,2019,Accidental,Poisoning,74
+Karnataka,Bangalore,2019,Natural,Stroke,42
+Karnataka,Bangalore,2019,Accidental,Poisoning,30
+Karnataka,Bangalore,2020,Natural,Heart Attack,68
+Karnataka,Bangalore,2020,Accidental,Drowning,34
+Karnataka,Bangalore,2020,Natural,Heart Attack,35
+Karnataka,Bangalore,2020,Accidental,Road Accident,86
+Karnataka,Bangalore,2021,Natural,Stroke,53
+Karnataka,Bangalore,2021,Accidental,Fire,50
+Karnataka,Bangalore,2021,Accidental,Drowning,85
+Karnataka,Bangalore,2022,Accidental,Fire,77
+Karnataka,Bangalore,2022,Natural,Epidemic,97
+Karnataka,Bangalore,2022,Natural,Heart Attack,40
+Karnataka,Bangalore,2023,Accidental,Poisoning,25
+Karnataka,Bangalore,2023,Natural,Heart Attack,34
+Karnataka,Bangalore,2023,Accidental,Fall,40
+Karnataka,Bangalore,2023,Accidental,Fire,84
+Karnataka,Bangalore,2023,Accidental,Fall,31
+Karnataka,Bangalore,2023,Accidental,Drowning,67
+Karnataka,Bangalore,2024,Natural,Heat Stroke,62
+Karnataka,Bangalore,2024,Accidental,Road Accident,189
+Karnataka,Bangalore,2024,Natural,Heart Attack,31
+Karnataka,Bangalore,2024,Natural,Heat Stroke,44
+Karnataka,Bangalore,2024,Natural,Heat Stroke,84
+Karnataka,Mysore,2015,Natural,Epidemic,113
+Karnataka,Mysore,2015,Accidental,Fire,13
+Karnataka,Mysore,2015,Natural,Heat Stroke,65
+Karnataka,Mysore,2016,Accidental,Fire,28
+Karnataka,Mysore,2016,Natural,Stroke,19
+Karnataka,Mysore,2016,Natural,Epidemic,63
+Karnataka,Mysore,2017,Natural,Heart Attack,71
+Karnataka,Mysore,2017,Accidental,Drowning,75
+Karnataka,Mysore,2017,Accidental,Drowning,19
+Karnataka,Mysore,2018,Natural,Epidemic,62
+Karnataka,Mysore,2018,Natural,Heart Attack,104
+Karnataka,Mysore,2018,Accidental,Fall,102
+Karnataka,Mysore,2018,Accidental,Fall,79
+Karnataka,Mysore,2018,Accidental,Road Accident,85
+Karnataka,Mysore,2018,Natural,Heart Attack,6
+Karnataka,Mysore,2019,Natural,Stroke,4
+Karnataka,Mysore,2019,Natural,Heat Stroke,82
+Karnataka,Mysore,2019,Accidental,Poisoning,65
+Karnataka,Mysore,2019,Natural,Heat Stroke,113
+Karnataka,Mysore,2019,Accidental,Fall,40
+Karnataka,Mysore,2020,Accidental,Drowning,70
+Karnataka,Mysore,2020,Accidental,Fire,62
+Karnataka,Mysore,2020,Natural,Epidemic,23
+Karnataka,Mysore,2020,Accidental,Fall,88
+Karnataka,Mysore,2021,Accidental,Poisoning,45
+Karnataka,Mysore,2021,Accidental,Fall,70
+Karnataka,Mysore,2021,Accidental,Drowning,49
+Karnataka,Mysore,2021,Accidental,Road Accident,148
+Karnataka,Mysore,2021,Natural,Stroke,42
+Karnataka,Mysore,2021,Natural,Heart Attack,0
+Karnataka,Mysore,2022,Natural,Heart Attack,106
+Karnataka,Mysore,2022,Accidental,Road Accident,154
+Karnataka,Mysore,2022,Accidental,Fall,88
+Karnataka,Mysore,2022,Natural,Heat Stroke,51
+Karnataka,Mysore,2022,Natural,Heat Stroke,37
+Karnataka,Mysore,2022,Accidental,Poisoning,80
+Karnataka,Mysore,2023,Natural,Heat Stroke,38
+Karnataka,Mysore,2023,Natural,Epidemic,68
+Karnataka,Mysore,2023,Natural,Heat Stroke,19
+Karnataka,Mysore,2023,Accidental,Fall,55
+Karnataka,Mysore,2023,Accidental,Fall,42
+Karnataka,Mysore,2024,Accidental,Poisoning,19
+Karnataka,Mysore,2024,Natural,Heat Stroke,41
+Karnataka,Mysore,2024,Accidental,Fall,102
+Karnataka,Mysore,2024,Natural,Stroke,20
+Karnataka,Mysore,2024,Natural,Heat Stroke,28
+Karnataka,Hubli,2015,Accidental,Fire,14
+Karnataka,Hubli,2015,Natural,Epidemic,4
+Karnataka,Hubli,2015,Accidental,Fall,37
+Karnataka,Hubli,2016,Natural,Heat Stroke,87
+Karnataka,Hubli,2016,Accidental,Fire,42
+Karnataka,Hubli,2016,Accidental,Drowning,12
+Karnataka,Hubli,2016,Natural,Heart Attack,0
+Karnataka,Hubli,2016,Accidental,Drowning,98
+Karnataka,Hubli,2017,Natural,Heart Attack,64
+Karnataka,Hubli,2017,Natural,Stroke,33
+Karnataka,Hubli,2017,Accidental,Poisoning,68
+Karnataka,Hubli,2017,Accidental,Fire,23
+Karnataka,Hubli,2017,Natural,Stroke,7
+Karnataka,Hubli,2018,Natural,Heat Stroke,49
+Karnataka,Hubli,2018,Accidental,Road Accident,117
+Karnataka,Hubli,2018,Natural,Heat Stroke,28
+Karnataka,Hubli,2018,Natural,Heat Stroke,76
+Karnataka,Hubli,2019,Natural,Stroke,14
+Karnataka,Hubli,2019,Natural,Heart Attack,84
+Karnataka,Hubli,2019,Accidental,Fire,49
+Karnataka,Hubli,2019,Accidental,Fall,60
+Karnataka,Hubli,2019,Accidental,Fire,33
+Karnataka,Hubli,2020,Natural,Heart Attack,37
+Karnataka,Hubli,2020,Natural,Epidemic,80
+Karnataka,Hubli,2020,Natural,Heat Stroke,48
+Karnataka,Hubli,2020,Natural,Heat Stroke,29
+Karnataka,Hubli,2020,Natural,Epidemic,82
+Karnataka,Hubli,2020,Natural,Epidemic,14
+Karnataka,Hubli,2021,Accidental,Fire,26
+Karnataka,Hubli,2021,Accidental,Fire,35
+Karnataka,Hubli,2021,Natural,Heat Stroke,55
+Karnataka,Hubli,2021,Natural,Heat Stroke,44
+Karnataka,Hubli,2021,Natural,Heart Attack,44
+Karnataka,Hubli,2021,Accidental,Drowning,52
+Karnataka,Hubli,2022,Natural,Stroke,93
+Karnataka,Hubli,2022,Natural,Heat Stroke,22
+Karnataka,Hubli,2022,Accidental,Road Accident,180
+Karnataka,Hubli,2022,Accidental,Fall,53
+Karnataka,Hubli,2022,Natural,Stroke,58
+Karnataka,Hubli,2022,Natural,Epidemic,47
+Karnataka,Hubli,2023,Accidental,Road Accident,171
+Karnataka,Hubli,2023,Accidental,Road Accident,154
+Karnataka,Hubli,2023,Accidental,Fall,72
+Karnataka,Hubli,2023,Natural,Heat Stroke,35
+Karnataka,Hubli,2023,Accidental,Fall,91
+Karnataka,Hubli,2024,Accidental,Road Accident,153
+Karnataka,Hubli,2024,Natural,Heat Stroke,53
+Karnataka,Hubli,2024,Accidental,Road Accident,173
+Karnataka,Hubli,2024,Natural,Stroke,24
+Karnataka,Mangalore,2015,Accidental,Fall,20
+Karnataka,Mangalore,2015,Accidental,Fire,101
+Karnataka,Mangalore,2015,Accidental,Poisoning,15
+Karnataka,Mangalore,2016,Accidental,Fall,70
+Karnataka,Mangalore,2016,Accidental,Fire,26
+Karnataka,Mangalore,2016,Natural,Epidemic,91
+Karnataka,Mangalore,2016,Accidental,Fire,66
+Karnataka,Mangalore,2017,Accidental,Drowning,28
+Karnataka,Mangalore,2017,Natural,Epidemic,16
+Karnataka,Mangalore,2017,Accidental,Drowning,51
+Karnataka,Mangalore,2017,Natural,Heart Attack,76
+Karnataka,Mangalore,2018,Natural,Heart Attack,76
+Karnataka,Mangalore,2018,Accidental,Fall,54
+Karnataka,Mangalore,2018,Accidental,Poisoning,51
+Karnataka,Mangalore,2018,Accidental,Drowning,73
+Karnataka,Mangalore,2018,Natural,Heat Stroke,69
+Karnataka,Mangalore,2019,Natural,Heat Stroke,83
+Karnataka,Mangalore,2019,Accidental,Fire,36
+Karnataka,Mangalore,2019,Natural,Stroke,69
+Karnataka,Mangalore,2020,Natural,Heat Stroke,69
+Karnataka,Mangalore,2020,Natural,Epidemic,46
+Karnataka,Mangalore,2020,Accidental,Drowning,79
+Karnataka,Mangalore,2020,Accidental,Fall,63
+Karnataka,Mangalore,2021,Natural,Stroke,29
+Karnataka,Mangalore,2021,Accidental,Road Accident,172
+Karnataka,Mangalore,2021,Accidental,Road Accident,201
+Karnataka,Mangalore,2021,Natural,Heat Stroke,69
+Karnataka,Mangalore,2021,Accidental,Road Accident,176
+Karnataka,Mangalore,2021,Accidental,Road Accident,134
+Karnataka,Mangalore,2022,Accidental,Drowning,19
+Karnataka,Mangalore,2022,Natural,Heart Attack,34
+Karnataka,Mangalore,2022,Accidental,Fall,98
+Karnataka,Mangalore,2022,Accidental,Drowning,100
+Karnataka,Mangalore,2022,Accidental,Fall,102
+Karnataka,Mangalore,2023,Accidental,Drowning,25
+Karnataka,Mangalore,2023,Accidental,Drowning,18
+Karnataka,Mangalore,2023,Natural,Epidemic,54
+Karnataka,Mangalore,2023,Accidental,Road Accident,200
+Karnataka,Mangalore,2024,Accidental,Fall,54
+Karnataka,Mangalore,2024,Natural,Stroke,14
+Karnataka,Mangalore,2024,Accidental,Road Accident,159
+Karnataka,Belgaum,2015,Natural,Epidemic,31
+Karnataka,Belgaum,2015,Accidental,Drowning,28
+Karnataka,Belgaum,2015,Natural,Stroke,34
+Karnataka,Belgaum,2016,Natural,Heart Attack,46
+Karnataka,Belgaum,2016,Accidental,Drowning,69
+Karnataka,Belgaum,2016,Natural,Epidemic,96
+Karnataka,Belgaum,2017,Accidental,Poisoning,0
+Karnataka,Belgaum,2017,Accidental,Fire,86
+Karnataka,Belgaum,2017,Natural,Heart Attack,13
+Karnataka,Belgaum,2017,Accidental,Poisoning,75
+Karnataka,Belgaum,2017,Accidental,Fall,70
+Karnataka,Belgaum,2018,Accidental,Road Accident,86
+Karnataka,Belgaum,2018,Accidental,Drowning,87
+Karnataka,Belgaum,2018,Accidental,Poisoning,101
+Karnataka,Belgaum,2018,Natural,Heart Attack,24
+Karnataka,Belgaum,2019,Accidental,Drowning,105
+Karnataka,Belgaum,2019,Natural,Stroke,46
+Karnataka,Belgaum,2019,Accidental,Poisoning,82
+Karnataka,Belgaum,2019,Accidental,Poisoning,12
+Karnataka,Belgaum,2020,Accidental,Fire,43
+Karnataka,Belgaum,2020,Accidental,Fire,15
+Karnataka,Belgaum,2020,Accidental,Fire,87
+Karnataka,Belgaum,2020,Accidental,Fire,45
+Karnataka,Belgaum,2020,Natural,Stroke,83
+Karnataka,Belgaum,2020,Accidental,Fall,42
+Karnataka,Belgaum,2021,Accidental,Road Accident,105
+Karnataka,Belgaum,2021,Accidental,Poisoning,22
+Karnataka,Belgaum,2021,Accidental,Drowning,86
+Karnataka,Belgaum,2021,Accidental,Drowning,55
+Karnataka,Belgaum,2021,Accidental,Drowning,40
+Karnataka,Belgaum,2022,Natural,Heart Attack,75
+Karnataka,Belgaum,2022,Accidental,Fall,68
+Karnataka,Belgaum,2022,Natural,Heart Attack,29
+Karnataka,Belgaum,2022,Natural,Epidemic,23
+Karnataka,Belgaum,2022,Accidental,Poisoning,90
+Karnataka,Belgaum,2022,Natural,Epidemic,97
+Karnataka,Belgaum,2023,Natural,Heat Stroke,98
+Karnataka,Belgaum,2023,Accidental,Drowning,18
+Karnataka,Belgaum,2023,Natural,Epidemic,100
+Karnataka,Belgaum,2023,Accidental,Drowning,15
+Karnataka,Belgaum,2023,Natural,Stroke,69
+Karnataka,Belgaum,2023,Natural,Stroke,28
+Karnataka,Belgaum,2024,Accidental,Drowning,10
+Karnataka,Belgaum,2024,Accidental,Fire,74
+Karnataka,Belgaum,2024,Accidental,Poisoning,24
+Maharashtra,Mumbai,2015,Accidental,Road Accident,31
+Maharashtra,Mumbai,2015,Accidental,Poisoning,12
+Maharashtra,Mumbai,2015,Natural,Heart Attack,61
+Maharashtra,Mumbai,2015,Natural,Epidemic,35
+Maharashtra,Mumbai,2015,Natural,Epidemic,40
+Maharashtra,Mumbai,2016,Accidental,Fire,30
+Maharashtra,Mumbai,2016,Natural,Epidemic,68
+Maharashtra,Mumbai,2016,Natural,Heart Attack,27
+Maharashtra,Mumbai,2016,Natural,Stroke,28
+Maharashtra,Mumbai,2016,Natural,Heat Stroke,29
+Maharashtra,Mumbai,2017,Natural,Heat Stroke,47
+Maharashtra,Mumbai,2017,Accidental,Fire,84
+Maharashtra,Mumbai,2017,Accidental,Poisoning,77
+Maharashtra,Mumbai,2017,Accidental,Poisoning,21
+Maharashtra,Mumbai,2017,Natural,Stroke,49
+Maharashtra,Mumbai,2017,Natural,Stroke,82
+Maharashtra,Mumbai,2018,Accidental,Poisoning,72
+Maharashtra,Mumbai,2018,Natural,Heat Stroke,83
+Maharashtra,Mumbai,2018,Accidental,Road Accident,24
+Maharashtra,Mumbai,2018,Natural,Heart Attack,68
+Maharashtra,Mumbai,2019,Accidental,Fire,71
+Maharashtra,Mumbai,2019,Natural,Heart Attack,80
+Maharashtra,Mumbai,2019,Natural,Heat Stroke,7
+Maharashtra,Mumbai,2019,Natural,Epidemic,22
+Maharashtra,Mumbai,2020,Accidental,Road Accident,68
+Maharashtra,Mumbai,2020,Natural,Heart Attack,42
+Maharashtra,Mumbai,2020,Natural,Heart Attack,58
+Maharashtra,Mumbai,2020,Accidental,Fire,65
+Maharashtra,Mumbai,2021,Natural,Stroke,23
+Maharashtra,Mumbai,2021,Accidental,Drowning,85
+Maharashtra,Mumbai,2021,Natural,Epidemic,24
+Maharashtra,Mumbai,2021,Natural,Stroke,44
+Maharashtra,Mumbai,2021,Accidental,Road Accident,55
+Maharashtra,Mumbai,2021,Accidental,Fall,33
+Maharashtra,Mumbai,2022,Accidental,Road Accident,78
+Maharashtra,Mumbai,2022,Accidental,Fall,22
+Maharashtra,Mumbai,2022,Accidental,Fall,48
+Maharashtra,Mumbai,2022,Natural,Epidemic,26
+Maharashtra,Mumbai,2022,Accidental,Poisoning,86
+Maharashtra,Mumbai,2022,Accidental,Road Accident,67
+Maharashtra,Mumbai,2023,Natural,Heart Attack,40
+Maharashtra,Mumbai,2023,Natural,Heat Stroke,67
+Maharashtra,Mumbai,2023,Natural,Heat Stroke,79
+Maharashtra,Mumbai,2023,Accidental,Fall,10
+Maharashtra,Mumbai,2023,Natural,Epidemic,61
+Maharashtra,Mumbai,2023,Accidental,Fire,7
+Maharashtra,Mumbai,2024,Natural,Heart Attack,101
+Maharashtra,Mumbai,2024,Accidental,Poisoning,77
+Maharashtra,Mumbai,2024,Natural,Epidemic,47
+Maharashtra,Mumbai,2024,Natural,Epidemic,67
+Maharashtra,Pune,2015,Accidental,Fire,13
+Maharashtra,Pune,2015,Natural,Epidemic,29
+Maharashtra,Pune,2015,Natural,Heart Attack,82
+Maharashtra,Pune,2015,Natural,Heart Attack,30
+Maharashtra,Pune,2016,Accidental,Fire,82
+Maharashtra,Pune,2016,Natural,Heat Stroke,42
+Maharashtra,Pune,2016,Natural,Heat Stroke,32
+Maharashtra,Pune,2016,Accidental,Poisoning,32
+Maharashtra,Pune,2016,Natural,Heart Attack,59
+Maharashtra,Pune,2016,Accidental,Poisoning,82
+Maharashtra,Pune,2017,Accidental,Fall,78
+Maharashtra,Pune,2017,Natural,Epidemic,45
+Maharashtra,Pune,2017,Natural,Stroke,108
+Maharashtra,Pune,2017,Accidental,Drowning,100
+Maharashtra,Pune,2018,Accidental,Fall,94
+Maharashtra,Pune,2018,Accidental,Poisoning,87
+Maharashtra,Pune,2018,Natural,Epidemic,19
+Maharashtra,Pune,2019,Accidental,Fire,20
+Maharashtra,Pune,2019,Natural,Heat Stroke,75
+Maharashtra,Pune,2019,Accidental,Fall,84
+Maharashtra,Pune,2019,Natural,Heat Stroke,97
+Maharashtra,Pune,2019,Natural,Stroke,21
+Maharashtra,Pune,2020,Accidental,Fire,88
+Maharashtra,Pune,2020,Accidental,Fire,86
+Maharashtra,Pune,2020,Accidental,Drowning,59
+Maharashtra,Pune,2020,Accidental,Road Accident,104
+Maharashtra,Pune,2021,Natural,Stroke,42
+Maharashtra,Pune,2021,Natural,Stroke,51
+Maharashtra,Pune,2021,Accidental,Drowning,69
+Maharashtra,Pune,2021,Accidental,Poisoning,70
+Maharashtra,Pune,2021,Natural,Stroke,24
+Maharashtra,Pune,2022,Accidental,Poisoning,97
+Maharashtra,Pune,2022,Natural,Epidemic,25
+Maharashtra,Pune,2022,Accidental,Drowning,61
+Maharashtra,Pune,2022,Accidental,Poisoning,22
+Maharashtra,Pune,2022,Natural,Stroke,54
+Maharashtra,Pune,2022,Accidental,Drowning,26
+Maharashtra,Pune,2023,Natural,Epidemic,66
+Maharashtra,Pune,2023,Accidental,Fire,29
+Maharashtra,Pune,2023,Accidental,Road Accident,56
+Maharashtra,Pune,2024,Natural,Epidemic,54
+Maharashtra,Pune,2024,Natural,Epidemic,11
+Maharashtra,Pune,2024,Natural,Epidemic,27
+Maharashtra,Pune,2024,Accidental,Poisoning,63
+Maharashtra,Pune,2024,Accidental,Fall,71
+Maharashtra,Nagpur,2015,Accidental,Drowning,40
+Maharashtra,Nagpur,2015,Natural,Stroke,86
+Maharashtra,Nagpur,2015,Accidental,Road Accident,39
+Maharashtra,Nagpur,2016,Natural,Heat Stroke,16
+Maharashtra,Nagpur,2016,Accidental,Poisoning,48
+Maharashtra,Nagpur,2016,Accidental,Fall,67
+Maharashtra,Nagpur,2016,Accidental,Poisoning,79
+Maharashtra,Nagpur,2016,Accidental,Road Accident,89
+Maharashtra,Nagpur,2017,Accidental,Drowning,83
+Maharashtra,Nagpur,2017,Accidental,Drowning,56
+Maharashtra,Nagpur,2017,Natural,Heat Stroke,7
+Maharashtra,Nagpur,2017,Natural,Stroke,32
+Maharashtra,Nagpur,2018,Natural,Heart Attack,36
+Maharashtra,Nagpur,2018,Accidental,Fire,23
+Maharashtra,Nagpur,2018,Accidental,Fall,50
+Maharashtra,Nagpur,2018,Natural,Stroke,55
+Maharashtra,Nagpur,2018,Natural,Stroke,16
+Maharashtra,Nagpur,2019,Natural,Epidemic,45
+Maharashtra,Nagpur,2019,Natural,Epidemic,83
+Maharashtra,Nagpur,2019,Accidental,Road Accident,26
+Maharashtra,Nagpur,2019,Accidental,Fall,29
+Maharashtra,Nagpur,2019,Accidental,Fall,32
+Maharashtra,Nagpur,2020,Accidental,Fire,13
+Maharashtra,Nagpur,2020,Natural,Heart Attack,24
+Maharashtra,Nagpur,2020,Accidental,Road Accident,96
+Maharashtra,Nagpur,2021,Accidental,Poisoning,31
+Maharashtra,Nagpur,2021,Accidental,Drowning,31
+Maharashtra,Nagpur,2021,Natural,Heart Attack,21
+Maharashtra,Nagpur,2022,Natural,Stroke,21
+Maharashtra,Nagpur,2022,Accidental,Fall,32
+Maharashtra,Nagpur,2022,Accidental,Fall,39
+Maharashtra,Nagpur,2023,Natural,Heat Stroke,67
+Maharashtra,Nagpur,2023,Accidental,Fire,110
+Maharashtra,Nagpur,2023,Natural,Heat Stroke,30
+Maharashtra,Nagpur,2023,Accidental,Drowning,26
+Maharashtra,Nagpur,2023,Natural,Heat Stroke,80
+Maharashtra,Nagpur,2024,Natural,Heart Attack,83
+Maharashtra,Nagpur,2024,Natural,Heart Attack,19
+Maharashtra,Nagpur,2024,Accidental,Fire,55
+Maharashtra,Nagpur,2024,Accidental,Fire,23
+Maharashtra,Nagpur,2024,Natural,Heart Attack,31
+Maharashtra,Nashik,2015,Natural,Heat Stroke,26
+Maharashtra,Nashik,2015,Accidental,Fire,97
+Maharashtra,Nashik,2015,Accidental,Fire,59
+Maharashtra,Nashik,2015,Accidental,Road Accident,25
+Maharashtra,Nashik,2016,Natural,Epidemic,26
+Maharashtra,Nashik,2016,Natural,Heat Stroke,42
+Maharashtra,Nashik,2016,Accidental,Poisoning,48
+Maharashtra,Nashik,2016,Accidental,Road Accident,84
+Maharashtra,Nashik,2016,Natural,Heat Stroke,40
+Maharashtra,Nashik,2017,Accidental,Fall,11
+Maharashtra,Nashik,2017,Accidental,Road Accident,65
+Maharashtra,Nashik,2017,Accidental,Fire,61
+Maharashtra,Nashik,2017,Accidental,Poisoning,58
+Maharashtra,Nashik,2017,Natural,Heart Attack,25
+Maharashtra,Nashik,2018,Accidental,Road Accident,40
+Maharashtra,Nashik,2018,Accidental,Drowning,48
+Maharashtra,Nashik,2018,Accidental,Drowning,91
+Maharashtra,Nashik,2018,Natural,Heart Attack,61
+Maharashtra,Nashik,2018,Accidental,Road Accident,123
+Maharashtra,Nashik,2018,Accidental,Road Accident,28
+Maharashtra,Nashik,2019,Accidental,Fire,20
+Maharashtra,Nashik,2019,Natural,Heat Stroke,12
+Maharashtra,Nashik,2019,Natural,Stroke,80
+Maharashtra,Nashik,2020,Accidental,Fall,87
+Maharashtra,Nashik,2020,Natural,Epidemic,75
+Maharashtra,Nashik,2020,Accidental,Fire,63
+Maharashtra,Nashik,2020,Natural,Heat Stroke,85
+Maharashtra,Nashik,2020,Accidental,Road Accident,55
+Maharashtra,Nashik,2021,Natural,Heat Stroke,23
+Maharashtra,Nashik,2021,Natural,Epidemic,87
+Maharashtra,Nashik,2021,Accidental,Fire,78
+Maharashtra,Nashik,2021,Accidental,Fall,94
+Maharashtra,Nashik,2021,Accidental,Road Accident,34
+Maharashtra,Nashik,2021,Accidental,Fire,77
+Maharashtra,Nashik,2022,Natural,Stroke,9
+Maharashtra,Nashik,2022,Natural,Heat Stroke,24
+Maharashtra,Nashik,2022,Accidental,Drowning,59
+Maharashtra,Nashik,2022,Accidental,Fire,36
+Maharashtra,Nashik,2023,Accidental,Road Accident,45
+Maharashtra,Nashik,2023,Natural,Heat Stroke,95
+Maharashtra,Nashik,2023,Accidental,Fire,45
+Maharashtra,Nashik,2023,Accidental,Fall,65
+Maharashtra,Nashik,2024,Accidental,Poisoning,37
+Maharashtra,Nashik,2024,Natural,Heart Attack,27
+Maharashtra,Nashik,2024,Accidental,Fire,42
+Maharashtra,Nashik,2024,Accidental,Fall,89
+Maharashtra,Nashik,2024,Natural,Heat Stroke,34
+Maharashtra,Nashik,2024,Accidental,Road Accident,60
+Maharashtra,Aurangabad,2015,Accidental,Drowning,64
+Maharashtra,Aurangabad,2015,Accidental,Poisoning,51
+Maharashtra,Aurangabad,2015,Natural,Heat Stroke,14
+Maharashtra,Aurangabad,2015,Accidental,Fall,4
+Maharashtra,Aurangabad,2015,Accidental,Fire,9
+Maharashtra,Aurangabad,2016,Natural,Stroke,100
+Maharashtra,Aurangabad,2016,Natural,Heat Stroke,6
+Maharashtra,Aurangabad,2016,Accidental,Poisoning,73
+Maharashtra,Aurangabad,2016,Natural,Stroke,72
+Maharashtra,Aurangabad,2016,Natural,Heart Attack,85
+Maharashtra,Aurangabad,2016,Natural,Heat Stroke,51
+Maharashtra,Aurangabad,2017,Natural,Epidemic,64
+Maharashtra,Aurangabad,2017,Natural,Epidemic,85
+Maharashtra,Aurangabad,2017,Natural,Heart Attack,64
+Maharashtra,Aurangabad,2017,Accidental,Poisoning,78
+Maharashtra,Aurangabad,2018,Accidental,Fall,47
+Maharashtra,Aurangabad,2018,Accidental,Poisoning,62
+Maharashtra,Aurangabad,2018,Natural,Stroke,13
+Maharashtra,Aurangabad,2019,Natural,Stroke,64
+Maharashtra,Aurangabad,2019,Accidental,Poisoning,25
+Maharashtra,Aurangabad,2019,Accidental,Fire,52
+Maharashtra,Aurangabad,2019,Natural,Heart Attack,110
+Maharashtra,Aurangabad,2019,Natural,Epidemic,77
+Maharashtra,Aurangabad,2019,Accidental,Poisoning,89
+Maharashtra,Aurangabad,2020,Accidental,Road Accident,61
+Maharashtra,Aurangabad,2020,Accidental,Fall,27
+Maharashtra,Aurangabad,2020,Natural,Heat Stroke,94
+Maharashtra,Aurangabad,2020,Natural,Heat Stroke,49
+Maharashtra,Aurangabad,2021,Accidental,Fire,17
+Maharashtra,Aurangabad,2021,Natural,Epidemic,106
+Maharashtra,Aurangabad,2021,Natural,Stroke,70
+Maharashtra,Aurangabad,2021,Accidental,Drowning,43
+Maharashtra,Aurangabad,2021,Accidental,Road Accident,34
+Maharashtra,Aurangabad,2022,Accidental,Fire,96
+Maharashtra,Aurangabad,2022,Accidental,Fall,121
+Maharashtra,Aurangabad,2022,Accidental,Fire,84
+Maharashtra,Aurangabad,2022,Accidental,Fall,23
+Maharashtra,Aurangabad,2022,Natural,Stroke,35
+Maharashtra,Aurangabad,2023,Natural,Heart Attack,19
+Maharashtra,Aurangabad,2023,Accidental,Fire,44
+Maharashtra,Aurangabad,2023,Natural,Heat Stroke,12
+Maharashtra,Aurangabad,2023,Natural,Epidemic,103
+Maharashtra,Aurangabad,2024,Natural,Epidemic,89
+Maharashtra,Aurangabad,2024,Natural,Heat Stroke,63
+Maharashtra,Aurangabad,2024,Natural,Stroke,67
+Maharashtra,Aurangabad,2024,Accidental,Poisoning,85
+Maharashtra,Aurangabad,2024,Accidental,Fire,60
+Maharashtra,Aurangabad,2024,Natural,Epidemic,64
+Delhi,New Delhi,2015,Natural,Heart Attack,21
+Delhi,New Delhi,2015,Accidental,Fire,25
+Delhi,New Delhi,2015,Accidental,Fire,115
+Delhi,New Delhi,2015,Accidental,Drowning,46
+Delhi,New Delhi,2016,Accidental,Fire,54
+Delhi,New Delhi,2016,Natural,Epidemic,72
+Delhi,New Delhi,2016,Natural,Heart Attack,70
+Delhi,New Delhi,2016,Natural,Epidemic,62
+Delhi,New Delhi,2016,Accidental,Drowning,84
+Delhi,New Delhi,2017,Accidental,Poisoning,74
+Delhi,New Delhi,2017,Accidental,Fall,66
+Delhi,New Delhi,2017,Accidental,Road Accident,60
+Delhi,New Delhi,2017,Natural,Stroke,49
+Delhi,New Delhi,2017,Accidental,Road Accident,65
+Delhi,New Delhi,2017,Accidental,Poisoning,73
+Delhi,New Delhi,2018,Accidental,Fire,53
+Delhi,New Delhi,2018,Natural,Epidemic,6
+Delhi,New Delhi,2018,Accidental,Fall,67
+Delhi,New Delhi,2018,Natural,Epidemic,95
+Delhi,New Delhi,2018,Accidental,Fire,64
+Delhi,New Delhi,2019,Accidental,Fire,67
+Delhi,New Delhi,2019,Natural,Stroke,33
+Delhi,New Delhi,2019,Accidental,Poisoning,65
+Delhi,New Delhi,2020,Natural,Heart Attack,51
+Delhi,New Delhi,2020,Accidental,Drowning,16
+Delhi,New Delhi,2020,Natural,Stroke,48
+Delhi,New Delhi,2020,Accidental,Poisoning,108
+Delhi,New Delhi,2020,Natural,Epidemic,58
+Delhi,New Delhi,2021,Accidental,Poisoning,38
+Delhi,New Delhi,2021,Accidental,Fall,46
+Delhi,New Delhi,2021,Natural,Heat Stroke,103
+Delhi,New Delhi,2021,Natural,Epidemic,13
+Delhi,New Delhi,2021,Natural,Stroke,76
+Delhi,New Delhi,2021,Natural,Heart Attack,7
+Delhi,New Delhi,2022,Natural,Heart Attack,39
+Delhi,New Delhi,2022,Accidental,Drowning,83
+Delhi,New Delhi,2022,Accidental,Fall,24
+Delhi,New Delhi,2022,Natural,Heat Stroke,159
+Delhi,New Delhi,2022,Accidental,Road Accident,44
+Delhi,New Delhi,2023,Natural,Stroke,100
+Delhi,New Delhi,2023,Accidental,Drowning,57
+Delhi,New Delhi,2023,Natural,Epidemic,69
+Delhi,New Delhi,2024,Natural,Heart Attack,54
+Delhi,New Delhi,2024,Accidental,Poisoning,99
+Delhi,New Delhi,2024,Natural,Stroke,12
+Delhi,New Delhi,2024,Accidental,Road Accident,44
+Delhi,New Delhi,2024,Accidental,Fire,7
+Delhi,New Delhi,2024,Accidental,Poisoning,51
+Delhi,North Delhi,2015,Natural,Heart Attack,61
+Delhi,North Delhi,2015,Accidental,Drowning,34
+Delhi,North Delhi,2015,Accidental,Fire,39
+Delhi,North Delhi,2015,Accidental,Drowning,20
+Delhi,North Delhi,2015,Accidental,Poisoning,55
+Delhi,North Delhi,2016,Accidental,Drowning,82
+Delhi,North Delhi,2016,Accidental,Drowning,89
+Delhi,North Delhi,2016,Accidental,Fall,61
+Delhi,North Delhi,2016,Natural,Heart Attack,31
+Delhi,North Delhi,2016,Accidental,Poisoning,66
+Delhi,North Delhi,2016,Natural,Epidemic,63
+Delhi,North Delhi,2017,Accidental,Fire,39
+Delhi,North Delhi,2017,Accidental,Poisoning,89
+Delhi,North Delhi,2017,Natural,Epidemic,98
+Delhi,North Delhi,2017,Natural,Epidemic,41
+Delhi,North Delhi,2018,Natural,Heart Attack,83
+Delhi,North Delhi,2018,Accidental,Drowning,41
+Delhi,North Delhi,2018,Natural,Heat Stroke,110
+Delhi,North Delhi,2018,Natural,Heart Attack,72
+Delhi,North Delhi,2018,Natural,Heart Attack,24
+Delhi,North Delhi,2019,Accidental,Fire,29
+Delhi,North Delhi,2019,Accidental,Fall,7
+Delhi,North Delhi,2019,Natural,Heart Attack,62
+Delhi,North Delhi,2019,Natural,Heart Attack,94
+Delhi,North Delhi,2020,Natural,Heart Attack,76
+Delhi,North Delhi,2020,Natural,Epidemic,52
+Delhi,North Delhi,2020,Accidental,Drowning,37
+Delhi,North Delhi,2020,Natural,Heat Stroke,76
+Delhi,North Delhi,2020,Natural,Epidemic,10
+Delhi,North Delhi,2020,Natural,Epidemic,31
+Delhi,North Delhi,2021,Accidental,Fall,49
+Delhi,North Delhi,2021,Natural,Stroke,80
+Delhi,North Delhi,2021,Accidental,Poisoning,57
+Delhi,North Delhi,2021,Accidental,Fire,76
+Delhi,North Delhi,2021,Natural,Heat Stroke,176
+Delhi,North Delhi,2021,Accidental,Road Accident,88
+Delhi,North Delhi,2022,Natural,Heart Attack,58
+Delhi,North Delhi,2022,Accidental,Fall,46
+Delhi,North Delhi,2022,Accidental,Road Accident,64
+Delhi,North Delhi,2022,Natural,Stroke,81
+Delhi,North Delhi,2022,Natural,Heart Attack,35
+Delhi,North Delhi,2022,Natural,Stroke,74
+Delhi,North Delhi,2023,Natural,Stroke,99
+Delhi,North Delhi,2023,Accidental,Poisoning,103
+Delhi,North Delhi,2023,Accidental,Poisoning,55
+Delhi,North Delhi,2023,Accidental,Fall,46
+Delhi,North Delhi,2023,Accidental,Fire,6
+Delhi,North Delhi,2024,Natural,Heat Stroke,108
+Delhi,North Delhi,2024,Natural,Heart Attack,50
+Delhi,North Delhi,2024,Accidental,Fire,99
+Delhi,North Delhi,2024,Accidental,Road Accident,51
+Delhi,North Delhi,2024,Natural,Epidemic,5
+Delhi,South Delhi,2015,Natural,Epidemic,48
+Delhi,South Delhi,2015,Accidental,Fire,14
+Delhi,South Delhi,2015,Natural,Heart Attack,79
+Delhi,South Delhi,2015,Accidental,Drowning,17
+Delhi,South Delhi,2015,Accidental,Road Accident,75
+Delhi,South Delhi,2015,Natural,Stroke,59
+Delhi,South Delhi,2016,Accidental,Poisoning,25
+Delhi,South Delhi,2016,Accidental,Fall,47
+Delhi,South Delhi,2016,Accidental,Road Accident,50
+Delhi,South Delhi,2016,Accidental,Road Accident,93
+Delhi,South Delhi,2017,Accidental,Road Accident,27
+Delhi,South Delhi,2017,Accidental,Poisoning,56
+Delhi,South Delhi,2017,Natural,Heart Attack,28
+Delhi,South Delhi,2018,Natural,Stroke,84
+Delhi,South Delhi,2018,Natural,Heat Stroke,47
+Delhi,South Delhi,2018,Accidental,Poisoning,64
+Delhi,South Delhi,2018,Natural,Epidemic,67
+Delhi,South Delhi,2018,Natural,Epidemic,85
+Delhi,South Delhi,2018,Natural,Epidemic,38
+Delhi,South Delhi,2019,Accidental,Fall,32
+Delhi,South Delhi,2019,Natural,Epidemic,82
+Delhi,South Delhi,2019,Natural,Stroke,12
+Delhi,South Delhi,2020,Accidental,Poisoning,32
+Delhi,South Delhi,2020,Accidental,Fall,48
+Delhi,South Delhi,2020,Natural,Heart Attack,9
+Delhi,South Delhi,2020,Natural,Epidemic,49
+Delhi,South Delhi,2020,Natural,Heart Attack,107
+Delhi,South Delhi,2020,Natural,Heart Attack,79
+Delhi,South Delhi,2021,Accidental,Drowning,42
+Delhi,South Delhi,2021,Accidental,Road Accident,92
+Delhi,South Delhi,2021,Natural,Heat Stroke,88
+Delhi,South Delhi,2021,Natural,Stroke,74
+Delhi,South Delhi,2021,Accidental,Fall,65
+Delhi,South Delhi,2022,Natural,Epidemic,7
+Delhi,South Delhi,2022,Natural,Heat Stroke,118
+Delhi,South Delhi,2022,Natural,Stroke,98
+Delhi,South Delhi,2022,Accidental,Fire,102
+Delhi,South Delhi,2022,Natural,Heart Attack,79
+Delhi,South Delhi,2023,Natural,Heart Attack,95
+Delhi,South Delhi,2023,Natural,Heart Attack,12
+Delhi,South Delhi,2023,Natural,Heart Attack,76
+Delhi,South Delhi,2023,Natural,Heart Attack,36
+Delhi,South Delhi,2023,Accidental,Road Accident,22
+Delhi,South Delhi,2023,Natural,Heart Attack,21
+Delhi,South Delhi,2024,Accidental,Poisoning,63
+Delhi,South Delhi,2024,Natural,Heat Stroke,159
+Delhi,South Delhi,2024,Natural,Heart Attack,4
+Delhi,South Delhi,2024,Natural,Epidemic,79
+Delhi,East Delhi,2015,Accidental,Fall,31
+Delhi,East Delhi,2015,Natural,Stroke,86
+Delhi,East Delhi,2015,Accidental,Road Accident,16
+Delhi,East Delhi,2016,Natural,Heat Stroke,34
+Delhi,East Delhi,2016,Natural,Epidemic,86
+Delhi,East Delhi,2016,Natural,Heat Stroke,96
+Delhi,East Delhi,2017,Accidental,Drowning,91
+Delhi,East Delhi,2017,Accidental,Road Accident,54
+Delhi,East Delhi,2017,Accidental,Drowning,42
+Delhi,East Delhi,2017,Natural,Heart Attack,32
+Delhi,East Delhi,2018,Natural,Heart Attack,26
+Delhi,East Delhi,2018,Accidental,Road Accident,64
+Delhi,East Delhi,2018,Natural,Heat Stroke,91
+Delhi,East Delhi,2019,Accidental,Road Accident,63
+Delhi,East Delhi,2019,Natural,Heat Stroke,76
+Delhi,East Delhi,2019,Natural,Epidemic,72
+Delhi,East Delhi,2019,Accidental,Poisoning,18
+Delhi,East Delhi,2019,Natural,Stroke,82
+Delhi,East Delhi,2019,Natural,Heart Attack,50
+Delhi,East Delhi,2020,Natural,Stroke,31
+Delhi,East Delhi,2020,Accidental,Road Accident,11
+Delhi,East Delhi,2020,Natural,Heart Attack,82
+Delhi,East Delhi,2020,Accidental,Fire,97
+Delhi,East Delhi,2020,Natural,Stroke,28
+Delhi,East Delhi,2020,Accidental,Fire,27
+Delhi,East Delhi,2021,Accidental,Fall,22
+Delhi,East Delhi,2021,Accidental,Drowning,59
+Delhi,East Delhi,2021,Accidental,Drowning,106
+Delhi,East Delhi,2021,Natural,Stroke,79
+Delhi,East Delhi,2021,Natural,Heat Stroke,65
+Delhi,East Delhi,2021,Accidental,Poisoning,75
+Delhi,East Delhi,2022,Natural,Epidemic,43
+Delhi,East Delhi,2022,Natural,Heat Stroke,109
+Delhi,East Delhi,2022,Natural,Epidemic,0
+Delhi,East Delhi,2022,Natural,Epidemic,8
+Delhi,East Delhi,2023,Natural,Stroke,44
+Delhi,East Delhi,2023,Accidental,Drowning,38
+Delhi,East Delhi,2023,Accidental,Fire,65
+Delhi,East Delhi,2023,Accidental,Poisoning,24
+Delhi,East Delhi,2023,Natural,Epidemic,70
+Delhi,East Delhi,2023,Natural,Epidemic,24
+Delhi,East Delhi,2024,Natural,Heat Stroke,93
+Delhi,East Delhi,2024,Accidental,Drowning,46
+Delhi,East Delhi,2024,Accidental,Drowning,55
+Delhi,East Delhi,2024,Natural,Epidemic,49
+Kerala,Thiruvananthapuram,2015,Natural,Heat Stroke,102
+Kerala,Thiruvananthapuram,2015,Natural,Heat Stroke,66
+Kerala,Thiruvananthapuram,2015,Natural,Heat Stroke,26
+Kerala,Thiruvananthapuram,2015,Accidental,Fall,32
+Kerala,Thiruvananthapuram,2016,Accidental,Fall,17
+Kerala,Thiruvananthapuram,2016,Accidental,Drowning,51
+Kerala,Thiruvananthapuram,2016,Accidental,Fall,40
+Kerala,Thiruvananthapuram,2016,Accidental,Fall,76
+Kerala,Thiruvananthapuram,2016,Natural,Stroke,4
+Kerala,Thiruvananthapuram,2016,Accidental,Fire,12
+Kerala,Thiruvananthapuram,2017,Accidental,Fall,93
+Kerala,Thiruvananthapuram,2017,Accidental,Poisoning,19
+Kerala,Thiruvananthapuram,2017,Natural,Heat Stroke,53
+Kerala,Thiruvananthapuram,2017,Accidental,Fall,87
+Kerala,Thiruvananthapuram,2017,Accidental,Drowning,58
+Kerala,Thiruvananthapuram,2017,Accidental,Fall,59
+Kerala,Thiruvananthapuram,2018,Accidental,Drowning,38
+Kerala,Thiruvananthapuram,2018,Accidental,Road Accident,22
+Kerala,Thiruvananthapuram,2018,Accidental,Drowning,83
+Kerala,Thiruvananthapuram,2018,Natural,Heat Stroke,27
+Kerala,Thiruvananthapuram,2018,Natural,Stroke,50
+Kerala,Thiruvananthapuram,2018,Natural,Stroke,76
+Kerala,Thiruvananthapuram,2019,Accidental,Fall,103
+Kerala,Thiruvananthapuram,2019,Accidental,Road Accident,101
+Kerala,Thiruvananthapuram,2019,Natural,Heart Attack,60
+Kerala,Thiruvananthapuram,2019,Natural,Heart Attack,36
+Kerala,Thiruvananthapuram,2020,Natural,Epidemic,252
+Kerala,Thiruvananthapuram,2020,Natural,Stroke,51
+Kerala,Thiruvananthapuram,2020,Natural,Heart Attack,63
+Kerala,Thiruvananthapuram,2020,Accidental,Fire,68
+Kerala,Thiruvananthapuram,2021,Natural,Stroke,21
+Kerala,Thiruvananthapuram,2021,Natural,Epidemic,260
+Kerala,Thiruvananthapuram,2021,Natural,Epidemic,217
+Kerala,Thiruvananthapuram,2022,Natural,Heat Stroke,4
+Kerala,Thiruvananthapuram,2022,Accidental,Fall,52
+Kerala,Thiruvananthapuram,2022,Accidental,Fire,68
+Kerala,Thiruvananthapuram,2022,Natural,Epidemic,27
+Kerala,Thiruvananthapuram,2022,Natural,Stroke,59
+Kerala,Thiruvananthapuram,2023,Accidental,Fire,56
+Kerala,Thiruvananthapuram,2023,Accidental,Fire,92
+Kerala,Thiruvananthapuram,2023,Accidental,Drowning,45
+Kerala,Thiruvananthapuram,2023,Natural,Heart Attack,13
+Kerala,Thiruvananthapuram,2023,Accidental,Fire,91
+Kerala,Thiruvananthapuram,2024,Accidental,Drowning,45
+Kerala,Thiruvananthapuram,2024,Natural,Heart Attack,63
+Kerala,Thiruvananthapuram,2024,Accidental,Fire,98
+Kerala,Thiruvananthapuram,2024,Accidental,Poisoning,64
+Kerala,Thiruvananthapuram,2024,Natural,Heart Attack,38
+Kerala,Thiruvananthapuram,2024,Accidental,Road Accident,38
+Kerala,Kochi,2015,Natural,Epidemic,21
+Kerala,Kochi,2015,Accidental,Fall,104
+Kerala,Kochi,2015,Natural,Heart Attack,20
+Kerala,Kochi,2015,Natural,Epidemic,92
+Kerala,Kochi,2015,Accidental,Drowning,25
+Kerala,Kochi,2015,Accidental,Fire,17
+Kerala,Kochi,2016,Accidental,Poisoning,25
+Kerala,Kochi,2016,Natural,Epidemic,44
+Kerala,Kochi,2016,Accidental,Fire,92
+Kerala,Kochi,2017,Natural,Epidemic,6
+Kerala,Kochi,2017,Accidental,Poisoning,12
+Kerala,Kochi,2017,Natural,Stroke,9
+Kerala,Kochi,2017,Natural,Epidemic,64
+Kerala,Kochi,2018,Accidental,Fire,46
+Kerala,Kochi,2018,Natural,Stroke,33
+Kerala,Kochi,2018,Accidental,Fall,55
+Kerala,Kochi,2018,Natural,Heart Attack,62
+Kerala,Kochi,2018,Natural,Heat Stroke,19
+Kerala,Kochi,2019,Accidental,Poisoning,70
+Kerala,Kochi,2019,Natural,Epidemic,83
+Kerala,Kochi,2019,Natural,Heart Attack,26
+Kerala,Kochi,2019,Accidental,Fall,22
+Kerala,Kochi,2020,Accidental,Fire,32
+Kerala,Kochi,2020,Natural,Heart Attack,41
+Kerala,Kochi,2020,Accidental,Poisoning,89
+Kerala,Kochi,2020,Accidental,Drowning,84
+Kerala,Kochi,2020,Natural,Epidemic,240
+Kerala,Kochi,2021,Accidental,Road Accident,57
+Kerala,Kochi,2021,Accidental,Fall,51
+Kerala,Kochi,2021,Natural,Heart Attack,96
+Kerala,Kochi,2021,Accidental,Fall,97
+Kerala,Kochi,2021,Accidental,Poisoning,72
+Kerala,Kochi,2021,Natural,Heart Attack,99
+Kerala,Kochi,2022,Accidental,Fall,11
+Kerala,Kochi,2022,Accidental,Road Accident,13
+Kerala,Kochi,2022,Accidental,Fire,72
+Kerala,Kochi,2022,Natural,Stroke,41
+Kerala,Kochi,2022,Natural,Stroke,16
+Kerala,Kochi,2022,Accidental,Poisoning,67
+Kerala,Kochi,2023,Accidental,Poisoning,87
+Kerala,Kochi,2023,Natural,Epidemic,8
+Kerala,Kochi,2023,Accidental,Poisoning,37
+Kerala,Kochi,2023,Natural,Epidemic,77
+Kerala,Kochi,2023,Natural,Heat Stroke,101
+Kerala,Kochi,2023,Natural,Heat Stroke,78
+Kerala,Kochi,2024,Accidental,Fall,16
+Kerala,Kochi,2024,Accidental,Road Accident,29
+Kerala,Kochi,2024,Accidental,Road Accident,68
+Kerala,Kozhikode,2015,Natural,Heart Attack,52
+Kerala,Kozhikode,2015,Accidental,Fall,82
+Kerala,Kozhikode,2015,Natural,Heat Stroke,98
+Kerala,Kozhikode,2015,Natural,Heat Stroke,67
+Kerala,Kozhikode,2015,Natural,Epidemic,76
+Kerala,Kozhikode,2016,Accidental,Road Accident,84
+Kerala,Kozhikode,2016,Accidental,Fire,16
+Kerala,Kozhikode,2016,Accidental,Poisoning,79
+Kerala,Kozhikode,2017,Accidental,Road Accident,12
+Kerala,Kozhikode,2017,Accidental,Road Accident,90
+Kerala,Kozhikode,2017,Accidental,Fall,44
+Kerala,Kozhikode,2017,Accidental,Road Accident,100
+Kerala,Kozhikode,2018,Accidental,Fire,105
+Kerala,Kozhikode,2018,Natural,Heat Stroke,87
+Kerala,Kozhikode,2018,Natural,Heat Stroke,43
+Kerala,Kozhikode,2019,Accidental,Drowning,54
+Kerala,Kozhikode,2019,Accidental,Drowning,29
+Kerala,Kozhikode,2019,Natural,Stroke,77
+Kerala,Kozhikode,2019,Natural,Heart Attack,57
+Kerala,Kozhikode,2019,Accidental,Drowning,15
+Kerala,Kozhikode,2019,Natural,Heart Attack,80
+Kerala,Kozhikode,2020,Natural,Heart Attack,0
+Kerala,Kozhikode,2020,Natural,Epidemic,248
+Kerala,Kozhikode,2020,Natural,Heat Stroke,101
+Kerala,Kozhikode,2021,Natural,Stroke,31
+Kerala,Kozhikode,2021,Natural,Stroke,16
+Kerala,Kozhikode,2021,Accidental,Fall,49
+Kerala,Kozhikode,2021,Accidental,Fire,37
+Kerala,Kozhikode,2021,Natural,Epidemic,283
+Kerala,Kozhikode,2022,Natural,Heat Stroke,50
+Kerala,Kozhikode,2022,Accidental,Poisoning,28
+Kerala,Kozhikode,2022,Natural,Heart Attack,89
+Kerala,Kozhikode,2022,Natural,Stroke,90
+Kerala,Kozhikode,2023,Natural,Heart Attack,12
+Kerala,Kozhikode,2023,Accidental,Fire,13
+Kerala,Kozhikode,2023,Accidental,Fire,76
+Kerala,Kozhikode,2023,Natural,Epidemic,49
+Kerala,Kozhikode,2024,Natural,Heat Stroke,62
+Kerala,Kozhikode,2024,Accidental,Fire,79
+Kerala,Kozhikode,2024,Accidental,Fire,36
+Kerala,Thrissur,2015,Accidental,Drowning,89
+Kerala,Thrissur,2015,Accidental,Poisoning,85
+Kerala,Thrissur,2015,Accidental,Fall,76
+Kerala,Thrissur,2015,Natural,Epidemic,57
+Kerala,Thrissur,2015,Natural,Epidemic,48
+Kerala,Thrissur,2015,Accidental,Fall,77
+Kerala,Thrissur,2016,Accidental,Fire,65
+Kerala,Thrissur,2016,Natural,Heart Attack,24
+Kerala,Thrissur,2016,Accidental,Fire,21
+Kerala,Thrissur,2016,Accidental,Road Accident,36
+Kerala,Thrissur,2016,Accidental,Drowning,35
+Kerala,Thrissur,2017,Natural,Heart Attack,52
+Kerala,Thrissur,2017,Accidental,Poisoning,58
+Kerala,Thrissur,2017,Natural,Heat Stroke,30
+Kerala,Thrissur,2017,Accidental,Fire,25
+Kerala,Thrissur,2017,Accidental,Poisoning,30
+Kerala,Thrissur,2018,Natural,Heat Stroke,17
+Kerala,Thrissur,2018,Natural,Heat Stroke,42
+Kerala,Thrissur,2018,Accidental,Fall,83
+Kerala,Thrissur,2019,Accidental,Poisoning,48
+Kerala,Thrissur,2019,Accidental,Fire,73
+Kerala,Thrissur,2019,Natural,Epidemic,76
+Kerala,Thrissur,2020,Accidental,Fall,53
+Kerala,Thrissur,2020,Natural,Heart Attack,24
+Kerala,Thrissur,2020,Natural,Epidemic,285
+Kerala,Thrissur,2020,Natural,Heat Stroke,80
+Kerala,Thrissur,2021,Accidental,Poisoning,44
+Kerala,Thrissur,2021,Natural,Epidemic,294
+Kerala,Thrissur,2021,Accidental,Fire,40
+Kerala,Thrissur,2021,Accidental,Poisoning,18
+Kerala,Thrissur,2022,Accidental,Fire,74
+Kerala,Thrissur,2022,Natural,Stroke,65
+Kerala,Thrissur,2022,Natural,Epidemic,15
+Kerala,Thrissur,2022,Accidental,Fire,59
+Kerala,Thrissur,2022,Accidental,Poisoning,61
+Kerala,Thrissur,2022,Natural,Heart Attack,67
+Kerala,Thrissur,2023,Accidental,Drowning,65
+Kerala,Thrissur,2023,Natural,Heart Attack,79
+Kerala,Thrissur,2023,Accidental,Drowning,64
+Kerala,Thrissur,2023,Natural,Epidemic,88
+Kerala,Thrissur,2024,Natural,Heat Stroke,18
+Kerala,Thrissur,2024,Accidental,Fire,4
+Kerala,Thrissur,2024,Accidental,Drowning,43
+Kerala,Thrissur,2024,Accidental,Road Accident,46
+Kerala,Thrissur,2024,Natural,Stroke,92
+Kerala,Thrissur,2024,Accidental,Poisoning,78
+Tamil Nadu,Chennai,2015,Natural,Heat Stroke,77
+Tamil Nadu,Chennai,2015,Accidental,Drowning,74
+Tamil Nadu,Chennai,2015,Natural,Stroke,66
+Tamil Nadu,Chennai,2015,Natural,Heart Attack,16
+Tamil Nadu,Chennai,2016,Natural,Heat Stroke,7
+Tamil Nadu,Chennai,2016,Natural,Heart Attack,22
+Tamil Nadu,Chennai,2016,Natural,Stroke,68
+Tamil Nadu,Chennai,2016,Natural,Heart Attack,100
+Tamil Nadu,Chennai,2016,Natural,Heat Stroke,71
+Tamil Nadu,Chennai,2017,Accidental,Poisoning,11
+Tamil Nadu,Chennai,2017,Accidental,Drowning,70
+Tamil Nadu,Chennai,2017,Natural,Epidemic,32
+Tamil Nadu,Chennai,2017,Natural,Stroke,39
+Tamil Nadu,Chennai,2017,Accidental,Road Accident,19
+Tamil Nadu,Chennai,2018,Natural,Heart Attack,19
+Tamil Nadu,Chennai,2018,Natural,Heat Stroke,20
+Tamil Nadu,Chennai,2018,Natural,Epidemic,80
+Tamil Nadu,Chennai,2019,Natural,Stroke,22
+Tamil Nadu,Chennai,2019,Natural,Stroke,96
+Tamil Nadu,Chennai,2019,Natural,Stroke,79
+Tamil Nadu,Chennai,2020,Accidental,Fire,73
+Tamil Nadu,Chennai,2020,Accidental,Fire,41
+Tamil Nadu,Chennai,2020,Natural,Stroke,49
+Tamil Nadu,Chennai,2020,Natural,Epidemic,85
+Tamil Nadu,Chennai,2020,Accidental,Fire,76
+Tamil Nadu,Chennai,2020,Natural,Stroke,69
+Tamil Nadu,Chennai,2021,Accidental,Fire,13
+Tamil Nadu,Chennai,2021,Natural,Heat Stroke,61
+Tamil Nadu,Chennai,2021,Natural,Epidemic,42
+Tamil Nadu,Chennai,2021,Accidental,Poisoning,4
+Tamil Nadu,Chennai,2021,Natural,Heat Stroke,36
+Tamil Nadu,Chennai,2022,Accidental,Poisoning,46
+Tamil Nadu,Chennai,2022,Accidental,Road Accident,28
+Tamil Nadu,Chennai,2022,Accidental,Poisoning,48
+Tamil Nadu,Chennai,2023,Natural,Heart Attack,0
+Tamil Nadu,Chennai,2023,Accidental,Road Accident,32
+Tamil Nadu,Chennai,2023,Accidental,Road Accident,84
+Tamil Nadu,Chennai,2023,Natural,Epidemic,76
+Tamil Nadu,Chennai,2023,Natural,Heat Stroke,73
+Tamil Nadu,Chennai,2024,Accidental,Poisoning,81
+Tamil Nadu,Chennai,2024,Accidental,Poisoning,37
+Tamil Nadu,Chennai,2024,Accidental,Fall,63
+Tamil Nadu,Chennai,2024,Natural,Heart Attack,64
+Tamil Nadu,Chennai,2024,Accidental,Poisoning,83
+Tamil Nadu,Chennai,2024,Accidental,Poisoning,57
+Tamil Nadu,Coimbatore,2015,Accidental,Drowning,5
+Tamil Nadu,Coimbatore,2015,Accidental,Poisoning,56
+Tamil Nadu,Coimbatore,2015,Accidental,Road Accident,21
+Tamil Nadu,Coimbatore,2016,Accidental,Poisoning,37
+Tamil Nadu,Coimbatore,2016,Natural,Stroke,73
+Tamil Nadu,Coimbatore,2016,Natural,Epidemic,61
+Tamil Nadu,Coimbatore,2016,Natural,Stroke,75
+Tamil Nadu,Coimbatore,2016,Accidental,Drowning,68
+Tamil Nadu,Coimbatore,2017,Accidental,Drowning,56
+Tamil Nadu,Coimbatore,2017,Natural,Heat Stroke,26
+Tamil Nadu,Coimbatore,2017,Natural,Heart Attack,21
+Tamil Nadu,Coimbatore,2017,Accidental,Fire,48
+Tamil Nadu,Coimbatore,2017,Natural,Heart Attack,39
+Tamil Nadu,Coimbatore,2018,Natural,Heat Stroke,91
+Tamil Nadu,Coimbatore,2018,Natural,Epidemic,24
+Tamil Nadu,Coimbatore,2018,Natural,Stroke,43
+Tamil Nadu,Coimbatore,2018,Accidental,Fall,34
+Tamil Nadu,Coimbatore,2018,Natural,Stroke,56
+Tamil Nadu,Coimbatore,2018,Natural,Epidemic,69
+Tamil Nadu,Coimbatore,2019,Natural,Epidemic,51
+Tamil Nadu,Coimbatore,2019,Accidental,Fall,34
+Tamil Nadu,Coimbatore,2019,Accidental,Road Accident,18
+Tamil Nadu,Coimbatore,2020,Natural,Heat Stroke,97
+Tamil Nadu,Coimbatore,2020,Natural,Stroke,106
+Tamil Nadu,Coimbatore,2020,Natural,Heat Stroke,23
+Tamil Nadu,Coimbatore,2021,Accidental,Drowning,10
+Tamil Nadu,Coimbatore,2021,Natural,Epidemic,69
+Tamil Nadu,Coimbatore,2021,Accidental,Fire,90
+Tamil Nadu,Coimbatore,2021,Natural,Stroke,95
+Tamil Nadu,Coimbatore,2022,Natural,Epidemic,67
+Tamil Nadu,Coimbatore,2022,Natural,Heart Attack,101
+Tamil Nadu,Coimbatore,2022,Accidental,Road Accident,90
+Tamil Nadu,Coimbatore,2022,Accidental,Drowning,40
+Tamil Nadu,Coimbatore,2022,Accidental,Poisoning,50
+Tamil Nadu,Coimbatore,2022,Accidental,Fall,96
+Tamil Nadu,Coimbatore,2023,Natural,Epidemic,68
+Tamil Nadu,Coimbatore,2023,Accidental,Fire,103
+Tamil Nadu,Coimbatore,2023,Natural,Heat Stroke,48
+Tamil Nadu,Coimbatore,2023,Natural,Heat Stroke,32
+Tamil Nadu,Coimbatore,2023,Natural,Heat Stroke,47
+Tamil Nadu,Coimbatore,2024,Natural,Epidemic,26
+Tamil Nadu,Coimbatore,2024,Natural,Heat Stroke,76
+Tamil Nadu,Coimbatore,2024,Accidental,Poisoning,77
+Tamil Nadu,Coimbatore,2024,Accidental,Fall,95
+Tamil Nadu,Coimbatore,2024,Natural,Heart Attack,117
+Tamil Nadu,Madurai,2015,Natural,Stroke,25
+Tamil Nadu,Madurai,2015,Accidental,Fire,71
+Tamil Nadu,Madurai,2015,Accidental,Drowning,76
+Tamil Nadu,Madurai,2016,Natural,Epidemic,0
+Tamil Nadu,Madurai,2016,Accidental,Poisoning,12
+Tamil Nadu,Madurai,2016,Accidental,Road Accident,108
+Tamil Nadu,Madurai,2017,Accidental,Fire,0
+Tamil Nadu,Madurai,2017,Accidental,Fall,94
+Tamil Nadu,Madurai,2017,Natural,Stroke,49
+Tamil Nadu,Madurai,2017,Accidental,Poisoning,88
+Tamil Nadu,Madurai,2018,Natural,Epidemic,89
+Tamil Nadu,Madurai,2018,Natural,Heat Stroke,69
+Tamil Nadu,Madurai,2018,Natural,Heat Stroke,52
+Tamil Nadu,Madurai,2018,Natural,Stroke,32
+Tamil Nadu,Madurai,2018,Natural,Heart Attack,92
+Tamil Nadu,Madurai,2018,Accidental,Road Accident,56
+Tamil Nadu,Madurai,2019,Natural,Heat Stroke,79
+Tamil Nadu,Madurai,2019,Natural,Stroke,54
+Tamil Nadu,Madurai,2019,Accidental,Road Accident,44
+Tamil Nadu,Madurai,2020,Natural,Heat Stroke,49
+Tamil Nadu,Madurai,2020,Natural,Heat Stroke,79
+Tamil Nadu,Madurai,2020,Accidental,Fire,90
+Tamil Nadu,Madurai,2020,Accidental,Fire,11
+Tamil Nadu,Madurai,2021,Natural,Stroke,28
+Tamil Nadu,Madurai,2021,Accidental,Fall,58
+Tamil Nadu,Madurai,2021,Accidental,Drowning,23
+Tamil Nadu,Madurai,2021,Natural,Epidemic,27
+Tamil Nadu,Madurai,2021,Accidental,Road Accident,50
+Tamil Nadu,Madurai,2022,Natural,Heat Stroke,36
+Tamil Nadu,Madurai,2022,Accidental,Poisoning,60
+Tamil Nadu,Madurai,2022,Accidental,Fall,63
+Tamil Nadu,Madurai,2022,Accidental,Road Accident,71
+Tamil Nadu,Madurai,2022,Natural,Epidemic,72
+Tamil Nadu,Madurai,2023,Accidental,Poisoning,20
+Tamil Nadu,Madurai,2023,Natural,Epidemic,33
+Tamil Nadu,Madurai,2023,Natural,Heart Attack,23
+Tamil Nadu,Madurai,2024,Natural,Epidemic,70
+Tamil Nadu,Madurai,2024,Natural,Epidemic,95
+Tamil Nadu,Madurai,2024,Natural,Stroke,98
+Tamil Nadu,Madurai,2024,Accidental,Road Accident,58
+Tamil Nadu,Salem,2015,Accidental,Road Accident,68
+Tamil Nadu,Salem,2015,Accidental,Fall,118
+Tamil Nadu,Salem,2015,Accidental,Poisoning,91
+Tamil Nadu,Salem,2015,Natural,Heat Stroke,68
+Tamil Nadu,Salem,2015,Natural,Heart Attack,62
+Tamil Nadu,Salem,2016,Natural,Epidemic,76
+Tamil Nadu,Salem,2016,Natural,Stroke,76
+Tamil Nadu,Salem,2016,Accidental,Fire,28
+Tamil Nadu,Salem,2016,Accidental,Fall,53
+Tamil Nadu,Salem,2017,Natural,Stroke,40
+Tamil Nadu,Salem,2017,Accidental,Fall,30
+Tamil Nadu,Salem,2017,Accidental,Poisoning,75
+Tamil Nadu,Salem,2017,Accidental,Fall,14
+Tamil Nadu,Salem,2017,Natural,Epidemic,56
+Tamil Nadu,Salem,2017,Accidental,Road Accident,96
+Tamil Nadu,Salem,2018,Natural,Heat Stroke,33
+Tamil Nadu,Salem,2018,Natural,Heart Attack,104
+Tamil Nadu,Salem,2018,Accidental,Poisoning,36
+Tamil Nadu,Salem,2018,Natural,Epidemic,70
+Tamil Nadu,Salem,2018,Natural,Heat Stroke,95
+Tamil Nadu,Salem,2018,Natural,Heat Stroke,90
+Tamil Nadu,Salem,2019,Natural,Epidemic,30
+Tamil Nadu,Salem,2019,Natural,Heat Stroke,24
+Tamil Nadu,Salem,2019,Natural,Heart Attack,31
+Tamil Nadu,Salem,2019,Accidental,Fall,95
+Tamil Nadu,Salem,2020,Natural,Heat Stroke,62
+Tamil Nadu,Salem,2020,Accidental,Poisoning,86
+Tamil Nadu,Salem,2020,Accidental,Road Accident,70
+Tamil Nadu,Salem,2021,Natural,Heart Attack,96
+Tamil Nadu,Salem,2021,Accidental,Road Accident,65
+Tamil Nadu,Salem,2021,Natural,Stroke,90
+Tamil Nadu,Salem,2021,Natural,Epidemic,36
+Tamil Nadu,Salem,2022,Accidental,Poisoning,36
+Tamil Nadu,Salem,2022,Natural,Heat Stroke,44
+Tamil Nadu,Salem,2022,Natural,Heart Attack,95
+Tamil Nadu,Salem,2022,Natural,Stroke,50
+Tamil Nadu,Salem,2023,Accidental,Fall,45
+Tamil Nadu,Salem,2023,Natural,Epidemic,87
+Tamil Nadu,Salem,2023,Natural,Heart Attack,9
+Tamil Nadu,Salem,2024,Accidental,Fall,11
+Tamil Nadu,Salem,2024,Natural,Heart Attack,62
+Tamil Nadu,Salem,2024,Natural,Stroke,26
+Tamil Nadu,Salem,2024,Natural,Heart Attack,65
+Tamil Nadu,Salem,2024,Accidental,Fire,43

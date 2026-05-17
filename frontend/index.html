@@ -47,7 +47,7 @@
                     </div>
                     <div class="form-group">
                         <label>Prediction Year</label>
-                        <input type="number" id="year" value="2026" min="2020" max="2030">
+                        <input type="number" id="year" value="2026" min="2020" max="2035">
                     </div>
                     <button type="submit" class="btn-primary">Analyze Risk ⚡</button>
                 </form>
@@ -65,10 +65,40 @@
                         <div class="value" id="deaths-val">0</div>
                         <p class="sub">Estimated count for selected year</p>
                     </div>
+                    <div class="card comparison-card">
+                        <h3>Year-over-Year Trend</h3>
+                        <div class="value" id="comp-val">0%</div>
+                        <p class="sub" id="comp-sub">Compared to previous year</p>
+                    </div>
                 </div>
 
-                <div class="chart-container">
-                    <canvas id="trendChart"></canvas>
+                <div class="charts-grid">
+                    <div class="chart-container">
+                        <h4>Fatality Trend Over Time</h4>
+                        <canvas id="trendChart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <h4>Cause Distribution (Regional)</h4>
+                        <canvas id="distChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="insights-section">
+                    <h3>🧠 AI Strategic Insights</h3>
+                    <ul id="insights-list">
+                        <!-- Insights go here -->
+                    </ul>
+                </div>
+
+                <div class="heatmap-section">
+                    <h3>📍 State-wide Risk Heatmap</h3>
+                    <div id="heatmap-list">
+                        <!-- Heatmap items go here -->
+                    </div>
+                </div>
+
+                <div class="actions">
+                    <button class="btn-secondary" onclick="generateReport()">📄 Download Detailed PDF Report</button>
                 </div>
             </div>
         </main>
